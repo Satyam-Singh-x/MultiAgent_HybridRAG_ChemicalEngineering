@@ -4,6 +4,8 @@ A Reliability-Aware Multi-Agent Retrieval-Augmented Generation System
 
 Domain: Chemical Engineering Knowledge Systems
 
+Detailed Youtube Video Explaination: https://youtu.be/AMX2DU09rok
+
 
 
 📌 Overview

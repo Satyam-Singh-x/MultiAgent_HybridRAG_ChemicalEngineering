@@ -34,6 +34,8 @@
 
 ---
 
+## CLI WORKING DEMO VIDEO : https://youtu.be/XWAgALZmd28
+
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
